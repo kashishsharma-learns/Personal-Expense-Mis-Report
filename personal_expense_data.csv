@@ -1,0 +1,81 @@
+Date,Category,Description,Amount,Payment Mode
+2026-01-01,Rent,Monthly room rent,6000,UPI
+2026-01-02,Transport,Petrol,369,Card
+2026-01-02,Transport,Metro recharge,58,UPI
+2026-01-04,Transport,Metro recharge,131,UPI
+2026-01-05,Eating Out,Swiggy order,696,UPI
+2026-01-06,Mobile Recharge,Airtel recharge,594,UPI
+2026-01-06,Groceries,Local grocery store,833,Card
+2026-01-07,Groceries,Local grocery store,341,Cash
+2026-01-07,Transport,Bus pass,344,Card
+2026-01-08,Subscriptions,YouTube Premium,471,UPI
+2026-01-08,Transport,Auto fare,115,UPI
+2026-01-09,Mobile Recharge,Vi recharge,489,Card
+2026-01-09,Mobile Recharge,Jio recharge,405,UPI
+2026-01-10,Groceries,BigBasket order,618,UPI
+2026-01-13,Eating Out,Cafe visit,452,UPI
+2026-01-14,Transport,Bus pass,322,UPI
+2026-01-15,Eating Out,Swiggy order,414,UPI
+2026-01-17,Miscellaneous,Gift purchase,612,Card
+2026-01-17,Groceries,Vegetable vendor,781,UPI
+2026-01-18,Subscriptions,YouTube Premium,192,UPI
+2026-01-21,Subscriptions,YouTube Premium,273,Cash
+2026-01-21,Miscellaneous,Medicines,53,UPI
+2026-01-21,Miscellaneous,Haircut,614,UPI
+2026-01-23,Transport,Ola ride,340,UPI
+2026-01-25,Transport,Bus pass,69,Card
+2026-01-25,Entertainment,Movie tickets,322,UPI
+2026-01-27,Entertainment,Movie tickets,799,UPI
+2026-01-27,Entertainment,Concert ticket,617,Card
+2026-01-28,Eating Out,Zomato order,204,UPI
+2026-01-28,Miscellaneous,Haircut,455,Cash
+2026-01-29,Miscellaneous,Medicines,653,UPI
+2026-01-30,Transport,Ola ride,214,UPI
+2026-01-30,Groceries,Reliance Fresh,796,Card
+2026-01-31,Transport,Bus pass,63,UPI
+2026-01-31,Entertainment,Netflix,505,Card
+2026-02-01,Rent,Monthly room rent,6000,UPI
+2026-02-01,Entertainment,Concert ticket,698,UPI
+2026-02-01,Mobile Recharge,Airtel recharge,231,UPI
+2026-02-01,Mobile Recharge,Vi recharge,296,UPI
+2026-02-01,Transport,Petrol,246,UPI
+2026-02-01,Groceries,Reliance Fresh,317,UPI
+2026-02-01,Eating Out,Swiggy order,391,UPI
+2026-02-04,Mobile Recharge,Airtel recharge,549,UPI
+2026-02-04,Entertainment,Netflix,719,Card
+2026-02-06,Subscriptions,Gym membership,455,Cash
+2026-02-07,Eating Out,Swiggy order,691,UPI
+2026-02-08,Transport,Ola ride,88,UPI
+2026-02-12,Transport,Metro recharge,283,Card
+2026-02-15,Mobile Recharge,Jio recharge,548,UPI
+2026-02-15,Subscriptions,Amazon Prime,416,Cash
+2026-02-18,Miscellaneous,Medicines,591,UPI
+2026-02-18,Groceries,Vegetable vendor,949,UPI
+2026-02-21,Eating Out,Swiggy order,324,UPI
+2026-02-21,Eating Out,Restaurant dinner,548,UPI
+2026-02-22,Miscellaneous,Gift purchase,542,UPI
+2026-02-22,Groceries,Vegetable vendor,517,UPI
+2026-02-24,Subscriptions,Spotify,338,UPI
+2026-02-28,Transport,Auto fare,213,UPI
+2026-02-28,Eating Out,Zomato order,869,UPI
+2026-02-28,Transport,Petrol,57,Cash
+2026-03-01,Rent,Monthly room rent,6000,UPI
+2026-03-05,Transport,Auto fare,44,Cash
+2026-03-06,Entertainment,Gaming purchase,235,UPI
+2026-03-09,Subscriptions,Amazon Prime,207,Card
+2026-03-10,Mobile Recharge,Airtel recharge,282,UPI
+2026-03-11,Groceries,Reliance Fresh,813,UPI
+2026-03-11,Groceries,BigBasket order,792,UPI
+2026-03-11,Entertainment,Movie tickets,726,UPI
+2026-03-14,Eating Out,Swiggy order,367,Card
+2026-03-15,Miscellaneous,Haircut,298,UPI
+2026-03-16,Miscellaneous,Online shopping,564,Cash
+2026-03-17,Mobile Recharge,Jio recharge,500,UPI
+2026-03-19,Groceries,DMart purchase,557,UPI
+2026-03-19,Mobile Recharge,Airtel recharge,277,Cash
+2026-03-23,Transport,Ola ride,32,Cash
+2026-03-23,Eating Out,Cafe visit,266,Card
+2026-03-24,Eating Out,Cafe visit,214,UPI
+2026-03-27,Miscellaneous,Online shopping,269,Cash
+2026-03-27,Mobile Recharge,Jio recharge,335,UPI
+2026-03-29,Subscriptions,Spotify,404,UPI
