@@ -32,7 +32,7 @@ Rent was the highest spending category overall, followed by Groceries and Eating
 | `personal_expense_data.csv` | Cleaned expense transaction data |
 | `category_budget_lookup.csv` | Category-wise monthly budget limit table |
 | `expense_tracker.xlsx` | Full working file with formulas and Pivot Table |
-| `pivot_table_chart.docx` | Screenshot of the Pivot Table and Pivot Chartssummary |
+| `pivot_table_chart.docx` | Screenshot of the Pivot Table and Pivot Charts summary |
 
 
 
